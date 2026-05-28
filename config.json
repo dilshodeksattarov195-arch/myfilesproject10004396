@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevecrypt",
+        "uuid": 24556056,
+        "checksum": "15gsb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
